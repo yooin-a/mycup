@@ -1,0 +1,132 @@
+/* noto-sans-cjk-kr-700 */
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-style: bold;
+	font-weight: 700;
+	src: local('☺'),
+		 url('../../font/NotoSansCJKkr/NotoSansCJKkr-Bold.otf') format('opentype');
+}
+/* noto-sans-cjk-kr-500 */
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-style: normal;
+	font-weight: 500;
+	src: local('☺'),
+		 url('../../font/NotoSansCJKkr/NotoSansCJKkr-Medium.otf') format('opentype');
+}
+/* noto-sans-cjk-kr-400 */
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-style: normal;
+	font-weight: 400;
+	src: local('☺'),
+		 url('../../font/NotoSansCJKkr/NotoSansCJKkr-Regular.otf') format('opentype');
+}
+/* noto-sans-cjk-kr-300 */
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-style: normal;
+	font-weight: 300;
+	src: local('☺'),
+		 url('../../font/NotoSansCJKkr/NotoSansCJKkr-Light.otf') format('opentype');
+}
+/* noto-sans-cjk-kr-100 */
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-style: normal;
+	font-weight: 100;
+	src: local('☺'),
+		 url('../../font/NotoSansCJKkr/NotoSansCJKkr-Thin.otf') format('opentype');
+}
+
+
+
+/* Apple SD Gothic Neo (900, Heavy) */
+@font-face {
+	font-family: 'Apple SD Gothic Neo';
+	font-style: bold;
+	font-weight: 900;
+	src: local('☺'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoH.ttf') format('woff'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoH.ttf') format('woff2');
+}
+
+/* Apple SD Gothic Neo (800, Extra Bold) */
+@font-face {
+	font-family: 'Apple SD Gothic Neo';
+	font-style: bold;
+	font-weight: 800;
+	src: local('☺'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoEB.ttf') format('woff'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoEB.ttf') format('woff2');
+}
+
+/* Apple SD Gothic Neo (700, Bold) */
+@font-face {
+	font-family: 'Apple SD Gothic Neo';
+	font-style: bold;
+	font-weight: 700;
+	src: local('☺'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoB.ttf') format('woff'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoB.ttf') format('woff2');
+}
+
+/* Apple SD Gothic Neo (600, Semi Bold) */
+@font-face {
+	font-family: 'Apple SD Gothic Neo';
+	font-style: bold;
+	font-weight: 600;
+	src: local('☺'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoSB.ttf') format('woff'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoSB.ttf') format('woff2');
+}
+
+/* Apple SD Gothic Neo (500, Medium) */
+@font-face {
+	font-family: 'Apple SD Gothic Neo';
+	font-style: normal;
+	font-weight: 500;
+	src: local('☺'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoM.ttf') format('woff'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoM.ttf') format('woff2');
+}
+
+/* Apple SD Gothic Neo (400, Regular) */
+@font-face {
+	font-family: 'Apple SD Gothic Neo';
+	font-style: normal;
+	font-weight: 400;
+	src: local('☺'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoR.ttf') format('woff'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoR.ttf') format('woff2');
+}
+
+/* Apple SD Gothic Neo (300, Light) */
+@font-face {
+	font-family: 'Apple SD Gothic Neo';
+	font-style: normal;
+	font-weight: 300;
+	src: local('☺'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoL.ttf') format('woff'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoL.ttf') format('woff2');
+}
+
+/* Apple SD Gothic Neo (200, Ultra Light) */
+@font-face {
+	font-family: 'Apple SD Gothic Neo';
+	font-style: normal;
+	font-weight: 200;
+	src: local('☺'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoUL.ttf') format('woff'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoUL.ttf') format('woff2');
+}
+
+/* Apple SD Gothic Neo (100, Thin) */
+@font-face {
+	font-family: 'Apple SD Gothic Neo';
+	font-style: normal;
+	font-weight: 100;
+	src: local('☺'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoT.ttf') format('woff'),
+		 url('../../font/AppleSDGothicNeo/AppleSDGothicNeoT.ttf') format('woff2');
+}

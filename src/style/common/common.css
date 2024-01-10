@@ -1,0 +1,92 @@
+html, body {
+    font-family: 'Apple SD Gothic Neo', '맑은 고딕', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    background: var(--sys-background);
+    color:var(--sys-primary);
+}
+
+button{
+    background-color: transparent;
+    border: none; 
+    box-shadow: none; 
+    border-radius: 0; 
+    padding: 0; 
+    overflow: visible; 
+    cursor: pointer;
+    font-size: inherit;
+    font-family: inherit;
+}
+
+input, textarea {
+    width: 100%;
+    display: block;
+    font-family: inherit;
+    box-sizing: border-box;    
+}
+
+
+input::-ms-clear { 
+    display: none; 
+}
+
+textarea {
+    resize: none;
+}
+
+mark {
+    background:transparent
+}
+
+
+/* /// 공통 /// */
+.wrap {
+    width:100%;
+    padding: 0 20px;
+}
+
+.subtitle {
+    font-weight: bold;
+    line-height: 36px;
+}
+
+.fixedButton {
+    position:fixed;
+    left:0;
+    bottom:0;
+    width: 100%;
+    padding: 20px;
+}
+
+.subConWrapper {
+    width: 100%;
+    padding:20px;
+    position:relative;
+}
+
+.no_Content {
+    margin-top:120px;
+    text-align: center;
+    font-size: 17px;
+}
+.no_Content img {
+    display: block;
+    margin:0 auto 48px;
+}
+.no_Content dt {
+    font-weight:bold;
+    line-height:23px;
+    margin-bottom: 16px;
+}
+.no_Content dd {
+    line-height:22px;
+    color:var(--sys-secondary);
+    margin-bottom:24px;           
+    font-weight: 500;
+}
+.errorMessage {
+    color:var(--sys-error);
+    font-size: 1rem;
+    line-height: 1.3125rem;
+}

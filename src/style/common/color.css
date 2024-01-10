@@ -1,0 +1,11 @@
+html, body {
+    --sys-main : #2d3234;
+	--sys-sub : #1D76E8;
+	--sys-background : #F0F1F3;
+	--sys-primary : #111111;
+	--sys-secondary : #5A6979;
+	--sys-on-primary : #FFFFFF;
+	--sys-error : #FA2B1A;
+	--sys-secondary-on-white : #E6EBF0;
+	--sys-divider : #cfd4e0;
+}
